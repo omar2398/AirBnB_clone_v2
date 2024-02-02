@@ -1,4 +1,4 @@
-<h1 align="center">HolbertonBnB</h1>
+<h1 align="center">omar mohamed</h1>
 <p align="center">An AirBnB clone.</p>
 
 <p align="center">
